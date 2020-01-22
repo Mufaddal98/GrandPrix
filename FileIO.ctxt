@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=FileIO
+comment0.text=\r\n\ The\ FileIO\ class\ \r\n\ \r\n\ @author\ Muhammad\ Ibrahim\r\n\ @version\ 1.0\ (31.May.2019)\r\n\ \r\n\ This\ FileIO\ class\ serves\ an\ important\ function\ of\ making\ our\ code\ as\ reusable\ as\ possible\r\n\ while\ taking\ maximum\ use\ of\ object\ oriented\ programming\ techniques.\r\n\ This\ class\ is\ responsible\ to\ read\ the\ two\ files\ (drivers.txt\ and\ venues.txt)\r\n\ without\ having\ us\ write\ all\ this\ file\ reading\ code\ in\ their\ respective\ classes.\ Using\ this\ class\ \r\n\ we\ have\ done\ all\ the\ file\ reading\ and\ writing\ and\ refreshing\ in\ one\ place.\r\n\ \ \ \ \r\n
+comment1.params=
+comment1.target=FileIO()
+comment2.params=drivers
+comment2.target=void\ readDrivers(ListOfDrivers)
+comment2.text=\r\n\ This\ method\ is\ reading\ the\ list\ of\ drivers\ from\ the\ "drivers.txt"\ file.\r\n\ \r\n\ @param\ drivers\ to\ read\ the\ name\ of\ each\ driver.\r\n\ @return\ void,\ nothing\ is\ returned\ within\ this\ method.\r\n
+comment3.params=venues
+comment3.target=void\ readVenues(ListOfVenues)
+comment3.text=\r\n\ This\ method\ reads\ the\ list\ of\ venues\ from\ the\ "venue.txt"\ file.\r\n\ \r\n\ @param\ venues\ is\ being\ used\ to\ store\ the\ list\ of\ venues\ after\ reading\ it\ from\ the\ \:venues.txt"\ file.\r\n\ @return\ void,\ nothing\ is\ being\ returned\ within\ this\ method.\r\n
+comment4.params=
+comment4.target=void\ refreshDrivers()
+comment4.text=\r\n\ This\ method\ refreshes\ the\ drivers.txt\ file\ so\ that\ it\ contains\ the\ default\ values\ everytime\ we\ run\ our\ code.\r\n\ \r\n\ @param\ No\ parameters\ are\ used\ in\ this\ method.\r\n\ @return\ void,\ nothing\ is\ being\ returned\ within\ this\ method.\r\n
+comment5.params=drivers
+comment5.target=void\ updateDrivers(ListOfDrivers)
+comment5.text=\r\n\ This\ method\ is\ writing\ the\ updated\ ranks\ of\ the\ drivers\ in\ the\ "drivers.txt"\ file\ after\ the\ end\ of\r\n\ every\ championship.\r\n\ \r\n\ @param\ drivers\ is\ being\ used\ in\ this\ method\ to\ store\ their\ ranks\ according\ to\ their\ ranks\ after\r\n\ each\ race\ and\ championship.\r\n\ @return\ void,\ nothing\ is\ being\ returned\ within\ this\ method,\r\n
+numComments=6

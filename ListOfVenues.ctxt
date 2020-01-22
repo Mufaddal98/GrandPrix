@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ListOfVenues
+comment0.text=\r\n\ The\ ListOfVenues\ class\ \r\n\ \r\n\ @author\ Muhammad\ Ibrahim\r\n\ @version\ 1.0\ (31.May.2019)\r\n\ \ \r\n\ This\ ListOfVenues\ class\ is\ used\ to\ create\ an\ Arraylist\ of\ type\ Venue\ which\ will\ hold\ the\ names\ of\ all\ the\ venues\ in\ the\ venues.txt\ file\ \r\n\ and\ also\ hold\ the\ other\ factors\ that\ are\ assigned\ to\ each\ venue.\r\n\ \ \ \ \r\n\ \ \ \ \r\n\ \ \ \ \r\n
+comment1.params=
+comment1.target=ListOfVenues()
+comment2.params=
+comment2.target=java.util.ArrayList\ getVenues()
+comment2.text=\r\n\ This\ is\ the\ accessor\ method\ for\ the\ ArrayList\ of\ venues.\r\n\ \r\n\ @return\ ArrayList\ of\ Venue,\ where\ the\ list\ of\ venues\ is\ stored\ from\ the\ txt\ file.\r\n
+comment3.params=venues
+comment3.target=void\ setVenues(java.util.ArrayList)
+comment4.params=console
+comment4.target=void\ createVenueList(java.util.Scanner)
+comment4.text=\r\n\ This\ method\ stores\ all\ the\ data\ read\ by\ FileIO\ class\ from\ venues.txt\ into\ an\ ArrayList.\r\n\ \r\n\ @param\ console\ is\ being\ used\ to\ read\ the\ data\ from\ the\ \:venues.txt"\ file.\r\n\ @return\ void,\ nothing\ is\ being\ returned\ within\ this\ method.\r\n
+numComments=5

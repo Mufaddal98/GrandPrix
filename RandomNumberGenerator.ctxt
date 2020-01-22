@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=RandomNumberGenerator
+comment0.text=\r\n\ Declaring\ the\ two\ fields\ of\ the\ class.\r\n\ \r\n\ @return\ class\r\n
+comment1.params=
+comment1.target=RandomNumberGenerator()
+comment1.text=\r\n\ This\ is\ the\ default\ constructor\ for\ the\ RandomNumberGenerator\ class.\r\n
+comment2.params=minimumValue\ maximumValue
+comment2.target=RandomNumberGenerator(int,\ int)
+comment2.text=\r\n\ This\ is\ the\ non-default\ constructor\ for\ the\ RandomNumberGenerator\ class.\r\n\ \r\n\ @param\ minimumValue\ and\ maximumValue\ are\ used\ for\ assign\ different\ upper\ and\ lower\r\n\ limits\ for\ the\ random\ number\ geenrator\ in\ this\ class.\r\n
+comment3.params=per
+comment3.target=boolean\ checkForRain(double)
+comment3.text=\r\n\ This\ is\ the\ method\ to\ check\ for\ the\ probability\ of\ the\ rain\ during\ the\ championship.\r\n\ \r\n\ @param\ per\ is\ a\ local\ variable\ being\ used\ in\ this\ method\ for\ comparison.\r\n\ @return\ boolean\ is\ returned\ to\ check\ if\ it\ will\ rain\ or\ not.\r\n
+comment4.params=minimumValue\ maximumValue
+comment4.target=boolean\ randomNumGen(int,\ int)
+comment5.params=minimumValue\ maximumValue
+comment5.target=int\ randomNumGen2(int,\ int)
+comment5.text=\r\n\ This\ is\ the\ method\ commonly\ being\ used\ in\ other\ classes\ to\ generate\ random\ number\ using\r\n\ \ the\ amximum\ and\ minimum\ values.\r\n\ \ \r\n\ \ @param\ minimumValue\ and\ maximumValue\ are\ being\ used\ in\ this\ method\ to\ assign\ upper\ and\ lower\r\n\ \ limit\ for\ the\ random\ number\ generator.\r\n\ \ @return\ int\ is\ returned\ as\ this\ method\ is\ used\ to\ generate\ random\ numbers.\r\n
+numComments=6
